@@ -19,13 +19,24 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!---
-- 👋 Hi, I’m @RafaEsBr
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <img src="https://media.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif" width="450" height="300"/>
+</div>
+### :man_technologist: About Me :
 
+I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+
+- :telescope: I’m studing to use frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read tech articles / pages, watch series and play games.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcosrafaelpfreitas/)
+
+
+
+<!---
 RafaEsBr/RafaEsBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
