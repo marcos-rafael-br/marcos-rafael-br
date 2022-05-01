@@ -69,6 +69,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Css Units](https://dev.to/marcosrafael/css-units-1ddp)
 - [Test for Github workflow](https://dev.to/marcosrafael/test-for-github-workflow-1hck)
 <!-- BLOG-POST-LIST:END -->
 
