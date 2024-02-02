@@ -26,7 +26,7 @@
 
 I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m studing to use frontend and backend for building web applications.
+- :telescope: I’m studying to use frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
